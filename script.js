@@ -1,7 +1,7 @@
 // Array of images for each gallery
 const posters = [
     'POSTERS/1.BioDiversity.png',
-    'POSTERS/2.Happy Bhogi.png',
+    'POSTERS/2.Happy bhogi.png',
     'POSTERS/3.Soliderity Day.png',
     'POSTERS/4.Ugadi Games.png',
     'POSTERS/5.Eid Mubarak.png',
@@ -13,7 +13,10 @@ const posters = [
     'POSTERS/12.CAMERA DAY.png',
     'POSTERS/13.CAMERA DAY.png',
     'POSTERS/14.CA DAY.png',
-    'POSTERS/15.Maths Day.png',
+    'POSTERS/15.Janmashtami Day 1.png',
+    'POSTERS/15.Janmashtami Day.png',
+    'POSTERS/16.Telugu Language Day.png',
+    'POSTERS/17.Maths Day.png',
     'POSTERS/sahiti trail 2.png',
 ];
 
@@ -32,6 +35,8 @@ const storyDesigns = [
     'STORIES/12.daksha.jpg',
     'STORIES/13.Games.png',
     'STORIES/14.Discord.png',
+    'STORIES/15.dhamaka.png',
+    'STORIES/16.visit our stall.png',
     'STORIES/Eid Al-Fitr.png',
     'STORIES/nature club 2.png',
 ];
