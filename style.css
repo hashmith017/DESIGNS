@@ -49,7 +49,7 @@ nav{
 .logo{
     width: 120px;
     cursor: pointer;
-    filter: brightness(80%);
+    filter: brightness(100%);
 }   
 nav ul li{
     list-style: none;
