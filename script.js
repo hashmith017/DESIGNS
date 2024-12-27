@@ -1,7 +1,7 @@
 // Array of images for each gallery
 const posters = [
     'POSTERS/1.BioDiversity.png',
-    'POSTERS/2.Happy bhogi.png',
+    'POSTERS/2.Happy Bhogi.png',
     'POSTERS/3.Soliderity Day.png',
     'POSTERS/4.Ugadi Games.png',
     'POSTERS/5.Eid Mubarak.png',
